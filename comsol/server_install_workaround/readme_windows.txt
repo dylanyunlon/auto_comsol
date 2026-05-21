@@ -7,4 +7,4 @@
 
 4. Open "http://localhost:2036" and login with your Windows account name and password!
 
-Fixed by TeAM SolidSQUAD-SSQ
+Fixed by TeAM dylan-dylan

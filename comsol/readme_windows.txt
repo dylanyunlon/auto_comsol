@@ -1,8 +1,8 @@
 1. Mount COMSOL DVD into virtual DVD drive and start installation with setup.exe
 
-2. Select "_SolidSQUAD_\LMCOMSOL_Multiphysics_6.4+_SSQ.lic" to install COMSOL Multiphysics
+2. Select "_dylan_\LMCOMSOL_Multiphysics_6.4+_dylan.lic" to install COMSOL Multiphysics
    --or--
-   Select "_SolidSQUAD_\LMCOMSOL_Server_6.4+_SSQ.lic" to install COMSOL Server
+   Select "_dylan_\LMCOMSOL_Server_6.4+_dylan.lic" to install COMSOL Server
 
 3. Select Components, Installation folder and options.
    At installation step "Options" untick "Check for updates after installation" and 
@@ -12,7 +12,7 @@
    "Windows Authentication"!
 
    4.1 Run as administrator "COMSOL_Server_Workaround.bat" from "server_install_workaround"
-       folder of _SolidSQUAD_ folder
+       folder of _dylan_ folder
 
    4.2 Wait until script completes
 
@@ -21,4 +21,4 @@
 
 6. Enjoy!
 
-Cracked by TeAM SolidSQUAD-SSQ
+Cracked by TeAM dylan-dylan

@@ -9,9 +9,9 @@
      export COMSOL_NUM_NUMA=1
      ./setup
 
-2. Select "_SolidSQUAD_/LMCOMSOL_Multiphysics_6.4+_SSQ.lic" to install COMSOL Multiphysics
+2. Select "_dylan_/LMCOMSOL_Multiphysics_6.4+_dylan.lic" to install COMSOL Multiphysics
    --or--
-   Select "_SolidSQUAD_/LMCOMSOL_Server_6.4+_SSQ.lic" to install COMSOL Server
+   Select "_dylan_/LMCOMSOL_Server_6.4+_dylan.lic" to install COMSOL Server
 
 3. Select Components, Installation folder and options.
    At installation step "Options" untick "Check for updates after installation" and 
@@ -39,4 +39,4 @@
 
 7. Enjoy!
 
-Cracked by TeAM SolidSQUAD-SSQ
+Cracked by TeAM dylan-dylan
